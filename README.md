@@ -1,1 +1,1 @@
-# 00_pytorch_fundamentals
+# pytorch_fundamentals
